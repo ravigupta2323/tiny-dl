@@ -1,5 +1,5 @@
 # tiny-dl
 A tiny deep learning library
 
-#Author 
+# Author 
 Ravi Gupta
